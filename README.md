@@ -37,7 +37,7 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in
 - SWIO programming, proper programmer required (WCH linkE)
 
 #Pinout:
-[coming soon]
+coming soon...
 
 #Software:
 ## AngstromIO Software:
@@ -51,12 +51,12 @@ PCB designed in EasyEDA Pro, 2 layers, 1.0mm thick, Purple soldermask
 All 3 designs panelized into one PCB.
 
 #Schematic:
-[coming soon]
+coming soon...
 #PCB Layout:
-[coming soon]
+coming soon...
 
 #Renders:
-[coming soon]
+coming soon...
 
 
 
