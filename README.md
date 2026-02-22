@@ -4,7 +4,7 @@ I made a dual CH340 programming board too, both for UPDI programming and debuggi
 I also designed a breadboard friendly, experimentation board for the CH32V003, with a 4 by 5 charlieplexed LED matrix.
 
 <p align="center">
-  <img width="130" height="200" alt="IOX-77 LOGO" src="assets/AngstromIO logo far away.png" />
+  <img width="130" height="200" alt="IOX-77 LOGO" src="IMG/AngstromIO logo.png" />
 </p>
 
 # AngstromIO Key features:
