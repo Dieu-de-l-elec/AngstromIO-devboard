@@ -13,14 +13,14 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in
 
 
 # Key features:
-## AngstromIO Key features:
+### AngstromIO Key features:
 - One of the smallest devboards: 8.9mm by 9mm, USB-C included
 - Attiny1616 MCU, 16Kb flash, low power, arduino compatible (for basic libraries at least)
 - USB-C for power, runs at 5V
 - 2x RGB addressable LEDs (SK6805-EC15)
 - Pins broken out: SCL, SDA, PB2 (TX), PA3, +5V, GND, and UPDI for programming
 
-## Programmer Key features:
+### Programmer Key features:
 - Dual CH340E setup:
     - One for programming (set as SerialUPDI programmer),
     - One for debugging (Serial Communication, USB to UART)
@@ -28,7 +28,7 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in
 - On board 3.3V LDO
 - 3.3V/5V operating voltage selection
 
-## CH32 devboard Key features:
+### CH32 devboard Key features:
 - Breadboard friendly devboard
 - cheap 25cents CH32V003, Risc-V MCU, 26Kb flash
 - USB-C for power, the CH32 runs at 3.3V but PC6 and PC5 are 5V tolerant
@@ -36,28 +36,37 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in
 - 4x5 charlieplexed LED matrix
 - SWIO programming, proper programmer required (WCH linkE)
 
-#Pinout:
+# Pinout:
 coming soon...
 
-#Software:
-## AngstromIO Software:
+# Software:
+### AngstromIO Software:
 Arduino compatible, some libraries may not work, but some have been arranged by SpenceKonde like Wire (I2C) and tinyNeoPixel (for more information, see https://github.com/SpenceKonde/ATTinyCore/tree/v2.0.0-devThis-is-the-head-submit-PRs-against-this/avr/libraries)
 
-## CH32 devboard Software:
+### CH32 devboard Software:
 Programmed on the Mounriver studio IDE
 
-#PCB design:
+# PCB design:
 PCB designed in EasyEDA Pro, 2 layers, 1.0mm thick, Purple soldermask
 All 3 designs panelized into one PCB.
 
-#Schematic:
+# Schematic:
 coming soon...
-#PCB Layout:
-coming soon...
-
-#Renders:
+# PCB Layout:
 coming soon...
 
+# Renders:
+coming soon...
+
+# BOM:
+### AngstromIO BOM:
+coming soon...
+
+### Programmer BOM:
+coming soon...
+
+### CH32 devboard BOM:
+coming soon...
 
 
 
