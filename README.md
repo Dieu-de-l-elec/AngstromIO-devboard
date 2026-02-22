@@ -41,7 +41,7 @@ coming soon...
 
 # Software:
 ### AngstromIO Software:
-Arduino compatible, some libraries may not work, but some have been arranged/made by SpenceKonde like Wire (I2C) and tinyNeoPixel (for more information, see https://github.com/SpenceKonde/ATTinyCore/tree/v2.0.0-devThis-is-the-head-submit-PRs-against-this/avr/libraries)
+Arduino compatible, some libraries may not work, but some have been arranged/made by SpenceKonde like Wire (I2C) and tinyNeoPixel (for more information, see https://github.com/SpenceKonde/megaTinyCore/tree/master/megaavr/libraries)
 
 ### CH32 devboard Software:
 Programmed on the Mounriver studio IDE
