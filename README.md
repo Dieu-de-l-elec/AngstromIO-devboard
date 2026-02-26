@@ -41,7 +41,7 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in
 
 # Software:
 ### AngstromIO Software:
-Arduino compatible, some libraries may not work, but some have been arranged/made by SpenceKonde like Wire (I2C) and tinyNeoPixel (for more information, see https://github.com/SpenceKonde/megaTinyCore/tree/master/megaavr/libraries)
+Arduino compatible, some libraries may not work, but some have been arranged/made by SpenceKonde like Wire (I2C) and tinyNeoPixel (for more information, see: https://github.com/SpenceKonde/megaTinyCore/tree/master/megaavr/libraries)
 
 ### CH32 devboard Software:
 Programmed on the Mounriver studio IDE
@@ -54,7 +54,19 @@ All 3 designs panelized into one PCB.
 <img src="AIO schematic.svg" alt="SCHEMATIC" width="2300"/>
 
 # PCB Layout:
-🚧 coming soon...
+
+<img width="1386" height="1139" alt="angstromIO 3d S3" src="https://github.com/user-attachments/assets/0f7962d5-38e1-4bd5-af0b-d7cd2c9fc207" />
+
+<img width="1502" height="1182" alt="angstromIO 3d S4" src="https://github.com/user-attachments/assets/a78e41e2-f0e4-4894-886c-536bf6179275" />
+
+<img width="1221" height="1088" alt="angstromIO 3d S6" src="https://github.com/user-attachments/assets/a9321e7a-7d50-47fc-a0c4-70c8fd251550" />
+
+<img width="1822" height="1589" alt="Layout top panel" src="https://github.com/user-attachments/assets/4b67eaeb-947d-4ba3-9d8d-20ee2b3913c5" />
+
+
+<img width="1678" height="1717" alt="Layout bottom panel" src="https://github.com/user-attachments/assets/d983fcb7-f020-4338-9049-abf60f8b3ea7" />
+
+
 
 # Renders:
 🚧 coming soon...
