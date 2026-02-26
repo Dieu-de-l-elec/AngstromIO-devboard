@@ -7,7 +7,7 @@ AngstromIO is one of the smallest devboards out there, barely longer than a USB-
 I made a dual CH340 programming board too, both for UPDI programming and debugging (one way Serial Communication). 
 I also designed a breadboard friendly, experimentation board for the CH32V003, with a 4 by 5 charlieplexed LED matrix.
 
-While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in any space constrained projects, the CH32 devboard is more an experimentation board, for me to learn how to program this awesome chip on the MounriverStudio programming and how to program a charlieplexed matrix. The Programmer is an all in one module, that will make debugging with the Serial monitor whil programming easy: one board for both.
+While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in any space constrained projects, the CH32 devboard is more an experimentation board, for me to learn how to program this awesome chip on the MounriverStudio programming and how to program a charlieplexed matrix. The Programmer is an all in one module, that will make debugging with the Serial monitor while programming easy: one board for both.
 
 ![Global](https://github.com/user-attachments/assets/642b73ac-d4aa-4dd5-9208-d3b9f72aa41b)
 
