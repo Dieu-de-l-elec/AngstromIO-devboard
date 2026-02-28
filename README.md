@@ -38,9 +38,10 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in
 
 # Pinout:
 
-<img width="2574" height="1766" alt="PINOUT AIO" src="https://github.com/user-attachments/assets/5842b2a6-0184-4776-93ce-155b02516b4b" />
-<img width="2559" height="1766" alt="PINOUT CH32" src="https://github.com/user-attachments/assets/45039ffb-94cc-41bf-87f9-6ba64ac64f90" />
-<img width="2558" height="1765" alt="PINOUT PGM" src="https://github.com/user-attachments/assets/78225546-29ee-4f75-9da4-6d547ff0c9f7" />
+
+<img width="2545" height="1741" alt="PINOUT AIO no frame" src="https://github.com/user-attachments/assets/9437022b-7121-4267-9fcd-e5423e48c47e" />
+<img width="2535" height="1742" alt="PINOUT CH32 no frame" src="https://github.com/user-attachments/assets/16de5c7e-309b-492c-a2a0-8896451d6b32" />
+<img width="2533" height="1738" alt="PINOUT PGM no frame" src="https://github.com/user-attachments/assets/feef0b3e-9e65-4b93-9345-3e620c1adbbe" />
 
 
 # Software:
