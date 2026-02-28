@@ -9,7 +9,8 @@ I also designed a breadboard friendly, experimentation board for the CH32V003, w
 
 While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in any space constrained projects, the CH32 devboard is more an experimentation board, for me to learn how to program this awesome chip on the MounriverStudio programming and how to program a charlieplexed matrix. The Programmer is an all in one module, that will make debugging with the Serial monitor while programming easy: one board for both.
 
-![Global](https://github.com/user-attachments/assets/642b73ac-d4aa-4dd5-9208-d3b9f72aa41b)
+
+<img width="2871" height="1548" alt="banner renders" src="https://github.com/user-attachments/assets/633cc341-a372-48ec-8386-ac6ccdab7370" />
 
 
 # Key features:
