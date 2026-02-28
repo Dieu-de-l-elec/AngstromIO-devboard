@@ -37,7 +37,11 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in
 - SWIO programming, proper programmer required (WCH linkE)
 
 # Pinout:
-🚧 coming soon...
+
+<img width="2574" height="1766" alt="PINOUT AIO" src="https://github.com/user-attachments/assets/5842b2a6-0184-4776-93ce-155b02516b4b" />
+<img width="2559" height="1766" alt="PINOUT CH32" src="https://github.com/user-attachments/assets/45039ffb-94cc-41bf-87f9-6ba64ac64f90" />
+<img width="2558" height="1765" alt="PINOUT PGM" src="https://github.com/user-attachments/assets/78225546-29ee-4f75-9da4-6d547ff0c9f7" />
+
 
 # Software:
 ### AngstromIO Software:
