@@ -84,7 +84,17 @@ All 3 designs panelized into one PCB.
 <img width="1792" height="1219" alt="004" src="https://github.com/user-attachments/assets/379e2b7b-ba40-40fe-8885-09695af9f56a" />
 
 <img width="1763" height="1224" alt="001" src="https://github.com/user-attachments/assets/655bb147-956b-44bc-b298-71a2ca5763eb" />
-🚧 to be continued...
+
+<img width="1763" height="1224" alt="001" src="IMG/RENDERS/PROGRAMMER/PGM 001.png" />
+<img width="1763" height="1224" alt="001" src="IMG/RENDERS/PROGRAMMER/PGM 002.png" />
+<img width="1763" height="1224" alt="001" src="IMG/RENDERS/PROGRAMMER/PGM 003.png" />
+<img width="1763" height="1224" alt="001" src="IMG/RENDERS/PROGRAMMER/PGM 004.png" />
+
+<img width="1763" height="1224" alt="001" src="IMG/RENDERS/CH32 devboard/CH32 001.png" />
+<img width="1763" height="1224" alt="001" src="IMG/RENDERS/CH32 devboard/CH32 002.png" />
+<img width="1763" height="1224" alt="001" src="IMG/RENDERS/CH32 devboard/CH32 003.png" />
+<img width="1763" height="1224" alt="001" src="IMG/RENDERS/CH32 devboard/CH32 004.png" />
+<img width="1763" height="1224" alt="001" src="IMG/RENDERS/CH32 devboard/CH32 005.png" />
 
 # BOM:
 ### AngstromIO BOM:
