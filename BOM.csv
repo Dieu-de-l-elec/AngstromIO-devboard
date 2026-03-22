@@ -6,7 +6,7 @@ AIO, 2, RGB addressable LED SK6805-EC15, , C2890035, https://www.lcsc.com/produc
 AIO, 1, MLCC Ceramic capacitor 0402, 100nF, C1525, https://www.lcsc.com/product-detail/C1525.html
 AIO, 1, MLCC Ceramic capacitor 0402, 10µF, C315248, https://www.lcsc.com/product-detail/C315248.html
 AIO, 1, TVS diode,, C5199850, https://www.lcsc.com/product-detail/C5199850.html
-
+-,,,,,
 PGM, 2, CH340E, , C99652,  https://www.lcsc.com/product-detail/C99652.html
 PGM, 1, TLV75733PDBVR 3V3 LDO, C485517, https://www.lcsc.com/product-detail/C485517.html
 PGM, 1, Slide switch MK-12C02-G015, C2911519, https://www.lcsc.com/product-detail/C2911519.html
