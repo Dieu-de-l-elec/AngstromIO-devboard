@@ -98,13 +98,41 @@ All 3 designs panelized into one PCB.
 
 # BUILD:
 
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/All three (1).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/All three (2).jpg" />
+
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (7).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (6).jpg" />
 <img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (1).jpg" />
 <img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (2).jpg" />
 <img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (3).jpg" />
 <img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (4).jpg" />
 <img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (5).jpg" />
-<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (6).jpg" />
-<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (7).jpg" />
+
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard (1).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard (4).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard (6).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard (7).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard (8).jpg" />
+
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard White bg (1).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard White bg (2).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard White bg (3).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard White bg (4).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/CH32 devboard White bg (5).jpg" />
+
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (1).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (2).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (3).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (4).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (5).jpg" />
+
+
+
+
+
+
+
 
 
 
