@@ -136,14 +136,58 @@ All 3 designs panelized into one PCB.
 
 
 # BOM:
+
+
+
+
+
+
 ### AngstromIO BOM:
-🚧 coming soon...
+Qty| Part| Value| LCSC Part Number| Link
+--- | --- | --- | --- | ---
+ 1| ATTINY1616-MNR| | C507118| https://www.lcsc.com/product-detail/C507118.html
+ 2| Resistor 0402| 5.1kΩ| C473460| https://www.lcsc.com/product-detail/C473460.html
+ 1| USB TYPE-C| 6P| C668623| https://www.lcsc.com/product-detail/C668623.html
+ 2| RGB addressable LED SK6805-EC15| | C2890035| https://www.lcsc.com/product-detail/C2890035.html
+ 1| MLCC Ceramic capacitor 0402| 100nF| C1525| https://www.lcsc.com/product-detail/C1525.html
+ 1| MLCC Ceramic capacitor 0402| 10µF| C315248| https://www.lcsc.com/product-detail/C315248.html
+ 1| TVS diode| | C5199850| https://www.lcsc.com/product-detail/C5199850.html
+ 1| | + Custom PCB Panel | | I used JLCPCB services https://jlcpcb.com
 
 ### Programmer BOM:
-🚧 coming soon...
-
+Qty| Part| Value| LCSC Part Number| Link
+--- | --- | --- | --- | ---
+ 2| CH340E| | C99652|  https://www.lcsc.com/product-detail/C99652.html
+ 1| TLV75733PDBVR 3V3 LDO| | C485517| https://www.lcsc.com/product-detail/C485517.html
+ 1| Slide switch MK-12C02-G015| | C2911519| https://www.lcsc.com/product-detail/C2911519.html
+ 6| RED LED 0402| | C25503345| https://www.lcsc.com/product-detail/C25503345.html
+ 7| Resistor 0402| 5.1kΩ| C473460| https://www.lcsc.com/product-detail/C473460.html
+ 6| Resistor 0402| 1kΩ| C2906864| https://www.lcsc.com/product-detail/C2906864.html
+ 2| MLCC Ceramic capacitor 0805| 10µF| C15850| https://www.lcsc.com/product-detail/C15850.html
+ 4| MLCC Ceramic capacitor 0603| 100nF| C66501| https://www.lcsc.com/product-detail/C66501.html
+ 2| USB TYPE-C| 16P| C2765186| https://www.lcsc.com/product-detail/C2765186.html
+ 1| 2.54 Dupont headers| 6P| C492414| https://www.lcsc.com/product-detail/C492414.html
+ 1| | + Custom PCB Panel | | I used JLCPCB services https://jlcpcb.com
+ 
 ### CH32 devboard BOM:
-🚧 coming soon...
+Qty| Part| Value| LCSC Part Number| Link
+--- | --- | --- | --- | ---
+ 1| USB TYPE-C| 6P| C668623| https://www.lcsc.com/product-detail/C668623.html
+ 2| Resistor 0402| 5.1kΩ| C473460| https://www.lcsc.com/product-detail/C473460.html
+ 1| Resistor 0402| 1kΩ| C2906864| https://www.lcsc.com/product-detail/C2906864.html
+ 2| Resistor 0402| 10kΩ| C2906861| https://www.lcsc.com/product-detail/C2906861.html
+ 5| Resistor 0402| 680Ω| C2909378| https://www.lcsc.com/product-detail/C2909378.html
+ 2| MLCC Ceramic capacitor 0805| 10µF| C15850| https://www.lcsc.com/product-detail/C15850.html
+ 3| MLCC Ceramic capacitor 0603| 100nF| C66501| https://www.lcsc.com/product-detail/C66501.html
+ 1| TVS diode|| C5199850| https://www.lcsc.com/product-detail/C5199850.html
+ 20| RED LED 0402| | C25503345| https://www.lcsc.com/product-detail/C25503345.html
+ 2| tactile switch| | C492872| https://www.lcsc.com/product-detail/C492872.html
+ 1| Orange LED 0603| | C965800| https://www.lcsc.com/product-detail/C965800.html
+ 1| CH32V003F4U6| | C5299908| https://www.lcsc.com/product-detail/C5299908.html
+ 1| AP2127K-3.3TRG1 3V3 LDO| | C156285| https://www.lcsc.com/product-detail/C156285.html
+ 1| 2.54 Dupont headers| 5P| C42431794| https://www.lcsc.com/product-detail/C42431794.html
+ 1| 2.54 Dupont headers| 6P| C42431807| https://www.lcsc.com/product-detail/C42431807.html
+ 1| | + Custom PCB Panel|  | I used JLCPCB services https://jlcpcb.com
 
 
 
