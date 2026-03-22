@@ -1,8 +1,21 @@
 BOARD, Qty, Part, Value, LCSC Part Number, Link
 AIO, 1, ATTINY1616-MNR, , C507118, https://www.lcsc.com/product-detail/C507118.html
 AIO, 2, Resistor 0402, 5.1k, C473460, https://www.lcsc.com/product-detail/C473460.html
-AIO, 1, USB TYPE-C 6P, , C668623, https://www.lcsc.com/product-detail/C668623.html
+AIO, 1, USB TYPE-C, 6P, C668623, https://www.lcsc.com/product-detail/C668623.html
 AIO, 2, RGB addressable LED SK6805-EC15, , C2890035, https://www.lcsc.com/product-detail/C2890035.html
 AIO, 1, MLCC Ceramic capacitor 0402, 100nF, C1525, https://www.lcsc.com/product-detail/C1525.html
 AIO, 1, MLCC Ceramic capacitor 0402, 10µF, C315248, https://www.lcsc.com/product-detail/C315248.html
 AIO, 1, TVS diode,, C5199850, https://www.lcsc.com/product-detail/C5199850.html
+
+PGM, 2, CH340E, , C99652,  https://www.lcsc.com/product-detail/C99652.html
+PGM, 1, TLV75733PDBVR 3V3 LDO, C485517, https://www.lcsc.com/product-detail/C485517.html
+PGM, 1, Slide switch MK-12C02-G015, C2911519, https://www.lcsc.com/product-detail/C2911519.html
+PGM, 6, RED LED 0402, , C25503345, https://www.lcsc.com/product-detail/C25503345.html
+PGM, 7, Resistor 0402, 5.1k, C473460, https://www.lcsc.com/product-detail/C473460.html
+PGM, 6, Resistor 0402, 1k, C2906864, https://www.lcsc.com/product-detail/C2906864.html
+PGM, 2, MLCC Ceramic capacitor 0805, 10µF, C15850, https://www.lcsc.com/product-detail/C15850.html
+PGM, 2, USB TYPE-C, 16P, C2765186, https://www.lcsc.com/product-detail/C2765186.html
+
+
+
+
