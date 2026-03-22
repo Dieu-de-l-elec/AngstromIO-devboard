@@ -8,8 +8,8 @@ AIO, 1, MLCC Ceramic capacitor 0402, 10µF, C315248, https://www.lcsc.com/produc
 AIO, 1, TVS diode,, C5199850, https://www.lcsc.com/product-detail/C5199850.html
 -,,,,,
 PGM, 2, CH340E, , C99652,  https://www.lcsc.com/product-detail/C99652.html
-PGM, 1, TLV75733PDBVR 3V3 LDO, C485517, https://www.lcsc.com/product-detail/C485517.html
-PGM, 1, Slide switch MK-12C02-G015, C2911519, https://www.lcsc.com/product-detail/C2911519.html
+PGM, 1, TLV75733PDBVR 3V3 LDO, , C485517, https://www.lcsc.com/product-detail/C485517.html
+PGM, 1, Slide switch MK-12C02-G015, , C2911519, https://www.lcsc.com/product-detail/C2911519.html
 PGM, 6, RED LED 0402, , C25503345, https://www.lcsc.com/product-detail/C25503345.html
 PGM, 7, Resistor 0402, 5.1k, C473460, https://www.lcsc.com/product-detail/C473460.html
 PGM, 6, Resistor 0402, 1k, C2906864, https://www.lcsc.com/product-detail/C2906864.html
