@@ -124,9 +124,8 @@ All 3 designs panelized into one PCB.
 <img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (1).jpg" />
 <img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (2).jpg" />
 <img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (3).jpg" />
-<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (4).jpg" />
 <img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (5).jpg" />
-
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/PGM (4).jpg" />
 
 
 
