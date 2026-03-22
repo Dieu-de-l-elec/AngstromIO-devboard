@@ -16,6 +16,23 @@ PGM, 6, Resistor 0402, 1k, C2906864, https://www.lcsc.com/product-detail/C290686
 PGM, 2, MLCC Ceramic capacitor 0805, 10µF, C15850, https://www.lcsc.com/product-detail/C15850.html
 PGM, 4, MLCC Ceramic capacitor 0603, 100nF, C66501, https://www.lcsc.com/product-detail/C66501.html
 PGM, 2, USB TYPE-C, 16P, C2765186, https://www.lcsc.com/product-detail/C2765186.html
+-,,,,,
+CH32 dev., 1, USB TYPE-C, 6P, C668623, https://www.lcsc.com/product-detail/C668623.html
+CH32 dev., 2, Resistor 0402, 5.1k, C473460, https://www.lcsc.com/product-detail/C473460.html
+CH32 dev., 1, Resistor 0402, 1k, C2906864, https://www.lcsc.com/product-detail/C2906864.html
+CH32 dev., 2, Resistor 0402, 10k, , https://www.lcsc.com/product-detail/.html
+CH32 dev., 5, Resistor 0402, 680, , https://www.lcsc.com/product-detail/.html
+CH32 dev., 2, MLCC Ceramic capacitor 0805, 10µF, C15850, https://www.lcsc.com/product-detail/C15850.html
+CH32 dev., 3, MLCC Ceramic capacitor 0603, 100nF, C66501, https://www.lcsc.com/product-detail/C66501.html
+CH32 dev., 1, TVS diode,, C5199850, https://www.lcsc.com/product-detail/C5199850.html
+CH32 dev., 20, RED LED 0402, , C25503345, https://www.lcsc.com/product-detail/C25503345.html
+CH32 dev., 2, tactile switch, , C492872, https://www.lcsc.com/product-detail/C492872.html
+CH32 dev., 1, Orange LED 0603, , C965800, https://www.lcsc.com/product-detail/C965800.html
+CH32 dev., 1, CH32V003F4U6, , C5299908, https://www.lcsc.com/product-detail/C5299908.html
+CH32 dev., 1, AP2127K-3.3TRG1 3V3 LDO, , C156285, https://www.lcsc.com/product-detail/C156285.html
+
+
+
 
 
 
