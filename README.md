@@ -61,40 +61,52 @@ All 3 designs panelized into one PCB.
 
 # PCB Layout:
 
-<img width="1386" height="1139" alt="angstromIO 3d S3" src="https://github.com/user-attachments/assets/0f7962d5-38e1-4bd5-af0b-d7cd2c9fc207" />
-<img width="1502" height="1182" alt="angstromIO 3d S4" src="https://github.com/user-attachments/assets/a78e41e2-f0e4-4894-886c-536bf6179275" />
-<img width="1221" height="1088" alt="angstromIO 3d S6" src="https://github.com/user-attachments/assets/a9321e7a-7d50-47fc-a0c4-70c8fd251550" />
+<img width="1763" alt="angstromIO 3d S3" src="https://github.com/user-attachments/assets/0f7962d5-38e1-4bd5-af0b-d7cd2c9fc207" />
+<img width="1763" alt="angstromIO 3d S4" src="https://github.com/user-attachments/assets/a78e41e2-f0e4-4894-886c-536bf6179275" />
+<img width="1763" alt="angstromIO 3d S6" src="https://github.com/user-attachments/assets/a9321e7a-7d50-47fc-a0c4-70c8fd251550" />
 
 ![panel front](https://github.com/user-attachments/assets/ba18e137-6d20-45a5-81c4-ce5c13919953)
 
 ![panel back](https://github.com/user-attachments/assets/92759a96-98f8-4d33-9d98-7eebe01363e5)
 
 ![Programmer PCB 2D](https://github.com/user-attachments/assets/02ac54df-69c2-4aa1-8e9f-59df2b894ee8)
-<img width="713" height="727" alt="CH32 Devboard top" src="https://github.com/user-attachments/assets/a90795da-a8e0-4654-8a1d-1cdb60842c4a" />
-<img width="825" height="756" alt="CH32 Devboard btm" src="https://github.com/user-attachments/assets/74f7cf1a-6db9-4b80-9b06-d0b3a5bb8b01" />
+<img width="1763" alt="CH32 Devboard top" src="https://github.com/user-attachments/assets/a90795da-a8e0-4654-8a1d-1cdb60842c4a" />
+<img width="1763" alt="CH32 Devboard btm" src="https://github.com/user-attachments/assets/74f7cf1a-6db9-4b80-9b06-d0b3a5bb8b01" />
 
 
-<img width="1822" height="1589" alt="Layout top panel" src="https://github.com/user-attachments/assets/4b67eaeb-947d-4ba3-9d8d-20ee2b3913c5" />
-<img width="1678" height="1717" alt="Layout bottom panel" src="https://github.com/user-attachments/assets/d983fcb7-f020-4338-9049-abf60f8b3ea7" />
+<img width="1763" alt="Layout top panel" src="https://github.com/user-attachments/assets/4b67eaeb-947d-4ba3-9d8d-20ee2b3913c5" />
+<img width="1763" alt="Layout bottom panel" src="https://github.com/user-attachments/assets/d983fcb7-f020-4338-9049-abf60f8b3ea7" />
 
 
 
 # Renders:
 
-<img width="1792" height="1219" alt="Render AngstromIO devboard Top" src="https://github.com/user-attachments/assets/379e2b7b-ba40-40fe-8885-09695af9f56a" />
+<img width="1763" alt="Render AngstromIO devboard Top" src="https://github.com/user-attachments/assets/379e2b7b-ba40-40fe-8885-09695af9f56a" />
 
-<img width="1763" height="1224" alt="Render AngstromIO devboard Bottom" src="https://github.com/user-attachments/assets/655bb147-956b-44bc-b298-71a2ca5763eb" />
+<img width="1763" alt="Render AngstromIO devboard Bottom" src="https://github.com/user-attachments/assets/655bb147-956b-44bc-b298-71a2ca5763eb" />
 
-<img width="1763" height="1224" alt="Render programmer 1" src="IMG/RENDERS/PROGRAMMER/PGM 001.png" />
-<img width="1763" height="1224" alt="Render programmer 2" src="IMG/RENDERS/PROGRAMMER/PGM 002.png" />
-<img width="1763" height="1224" alt="Render programmer 3" src="IMG/RENDERS/PROGRAMMER/PGM 003.png" />
-<img width="1763" height="1224" alt="Render programmer 4" src="IMG/RENDERS/PROGRAMMER/PGM 004.png" />
+<img width="1763" alt="Render programmer 1" src="IMG/RENDERS/PROGRAMMER/PGM 001.png" />
+<img width="1763" alt="Render programmer 2" src="IMG/RENDERS/PROGRAMMER/PGM 002.png" />
+<img width="1763" alt="Render programmer 3" src="IMG/RENDERS/PROGRAMMER/PGM 003.png" />
+<img width="1763" alt="Render programmer 4" src="IMG/RENDERS/PROGRAMMER/PGM 004.png" />
 
-<img width="1763" height="1224" alt="Render CH32 devboard 1" src="IMG/RENDERS/CH32 devboard/CH32 001.png" />
-<img width="1763" height="1224" alt="Render CH32 devboard 2" src="IMG/RENDERS/CH32 devboard/CH32 002.png" />
-<img width="1763" height="1224" alt="Render CH32 devboard 3" src="IMG/RENDERS/CH32 devboard/CH32 003.png" />
-<img width="1763" height="1224" alt="Render CH32 devboard 4" src="IMG/RENDERS/CH32 devboard/CH32 004.png" />
-<img width="1763" height="1224" alt="Render CH32 devboard 5" src="IMG/RENDERS/CH32 devboard/CH32 005.png" />
+<img width="1763" alt="Render CH32 devboard 1" src="IMG/RENDERS/CH32 devboard/CH32 001.png" />
+<img width="1763" alt="Render CH32 devboard 2" src="IMG/RENDERS/CH32 devboard/CH32 002.png" />
+<img width="1763" alt="Render CH32 devboard 3" src="IMG/RENDERS/CH32 devboard/CH32 003.png" />
+<img width="1763" alt="Render CH32 devboard 4" src="IMG/RENDERS/CH32 devboard/CH32 004.png" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/RENDERS/CH32 devboard/CH32 005.png" />
+
+# BUILD:
+
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (1).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (2).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (3).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (4).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (5).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (6).jpg" />
+<img width="1763" alt="Render CH32 devboard 5" src="IMG/BUILD/AIO (7).jpg" />
+
+
 
 # BOM:
 ### AngstromIO BOM:
