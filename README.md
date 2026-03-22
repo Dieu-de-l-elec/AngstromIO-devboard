@@ -31,7 +31,7 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embbeded in
 
 ### CH32 devboard Key features:
 - Breadboard friendly devboard
-- cheap 25cents CH32V003, Risc-V MCU, 26Kb flash
+- cheap 25cents CH32V003, Risc-V MCU, 16Kb flash
 - USB-C for power, the CH32 runs at 3.3V but PC6 and PC5 are 5V tolerant
 - On board 3.3V LDO
 - 4x5 charlieplexed LED matrix
