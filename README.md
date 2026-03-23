@@ -1,7 +1,4 @@
 # AngstromIO-devboard
-<p align="center">
-  
-</p>
 
 AngstromIO is one of the smallest devboards out there, barely longer than a USB-C connector, based on the Attiny1616 MCU. 2 GPIOs as well as I2C lines are broken out. 
 I made a dual CH340 programming board too, both for UPDI programming and debugging (one way Serial Communication). 
@@ -44,8 +41,9 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embedded in
 - 4x5 charlieplexed LED matrix
 - SWIO programming, proper programmer required (WCH linkE)
 
-# Pinout:
+demo here: https://www.youtube.com/watch?v=cnP7mQc9vTc
 
+# Pinout:
 
 <img width="2545" height="1741" alt="PINOUT AIO no frame" src="https://github.com/user-attachments/assets/9437022b-7121-4267-9fcd-e5423e48c47e" />
 <img width="2535" height="1742" alt="PINOUT CH32 no frame" src="https://github.com/user-attachments/assets/16de5c7e-309b-492c-a2a0-8896451d6b32" />
