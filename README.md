@@ -60,7 +60,8 @@ PCB designed in EasyEDA Pro, 2 layers, 1.0mm thick, Purple soldermask
 All 3 designs panelized into one PCB.
 
 # Schematic:
-<img src="AIO schematic.svg" alt="SCHEMATIC" width="2300"/>
+<img width="2533" alt="SCHEMATIC" src="AIO CH32 devboard and PGM schematic.svg" />
+
 
 # PCB Layout:
 
