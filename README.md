@@ -1,6 +1,6 @@
 # AngstromIO-devboard
 <p align="center">
-  <img width="130" height="200" alt="IOX-77 LOGO" src="IMG/AngstromIO logo.png" /> 
+  
 </p>
 
 AngstromIO is one of the smallest devboards out there, barely longer than a USB-C connector, based on the Attiny1616 MCU. 2 GPIOs as well as I2C lines are broken out. 
@@ -11,8 +11,12 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embedded in
 
 <br><br>
 <p align="center">
-  <img alt="Project Banner" src="https://github.com/user-attachments/assets/633cc341-a372-48ec-8386-ac6ccdab7370" width="73%" />
-  <img alt="AIO demo gif" src="https://github.com/user-attachments/assets/e32076a6-1042-43d7-b61c-d9b781b1d239" width="22%"/>
+  <img alt="Project Banner" src="https://github.com/user-attachments/assets/633cc341-a372-48ec-8386-ac6ccdab7370" width="70%" />
+  <img alt="AIO demo gif" src="https://github.com/user-attachments/assets/e32076a6-1042-43d7-b61c-d9b781b1d239" width="21.5%"/>
+</p>
+<p align="center">
+  <img alt="IOX-77 LOGO" src="IMG/AngstromIO logo.png" width="33.8%"/> 
+  <img alt="ALL demo gif" src="Demo AIO CH32 and programmer LOW Q.gif" width="57.7%"/>
 </p>
 <br><br>
 
