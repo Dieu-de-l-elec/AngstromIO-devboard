@@ -1,7 +1,16 @@
 /*
- *   CH32 devboard demo
+ *   CH32 devboard demo code | Clem, #Dieu-de-l'elec | https://github.com/Dieu-de-l-elec/AngstromIO-devboard/tree/main
  *   Charlieplexed 5x4 LED matrix
  *   1 button & 1 LED
+ *   
+ *   After creating a new Mounriver Studio project and selecting the chip 'CH32V003F4U', the following main.c file can be replaced with the following code (in User>main.c)  
+ *   as the devboard doesn't comes with an external oscillator, the file 'system_ch32v00x.c has to be modified, changing the code as below:
+ *            //#define SYSCLK_FREQ_8MHz_HSI    8000000
+ *            //#define SYSCLK_FREQ_24MHZ_HSI   HSI_VALUE
+ *            #define SYSCLK_FREQ_48MHZ_HSI   48000000               // This line has to be uncommented
+ *            //#define SYSCLK_FREQ_8MHz_HSE    8000000
+ *            //#define SYSCLK_FREQ_24MHz_HSE   HSE_VALUE
+ *            //#define SYSCLK_FREQ_48MHz_HSE   48000000              Default line that should be commented
  */
 
 #include "debug.h"
