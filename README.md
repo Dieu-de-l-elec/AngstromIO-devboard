@@ -30,7 +30,7 @@ While the AngstromIO is a tiny devboard, yet powerful, that could be embedded in
     - One for programming (set as SerialUPDI programmer),
     - One for debugging (Serial Communication, USB to UART)
 - 2 USB-C for data transfer, only the USB-C for Serial provides 5V to the board
-- On board 3.3V LDO
+- Onboard 3.3V LDO
 - 3.3V/5V operating voltage selection
 
 ### CH32 devboard Key features:
@@ -56,6 +56,7 @@ Arduino compatible, some libraries may not work, but some have been arranged/mad
 
 ### CH32 devboard Software:
 Programmed on the Mounriver studio IDE
+(see `main.c`file under FIRMWARE/CH32 devboard)
 
 # PCB design:
 PCB designed in EasyEDA Pro, 2 layers, 1.0mm thick, Purple soldermask
