@@ -54,6 +54,8 @@ demo here: https://www.youtube.com/watch?v=cnP7mQc9vTc
 ### AngstromIO Software:
 Arduino compatible, some libraries may not work, but some have been arranged/made by SpenceKonde like Wire (I2C) and tinyNeoPixel (for more information, see: https://github.com/SpenceKonde/megaTinyCore/tree/master/megaavr/libraries)
 
+(see `AIO_demo.ino`file under FIRMWARE/AngstromIO)
+
 ### CH32 devboard Software:
 Programmed on the Mounriver studio IDE
 (see `main.c`file under FIRMWARE/CH32 devboard)
