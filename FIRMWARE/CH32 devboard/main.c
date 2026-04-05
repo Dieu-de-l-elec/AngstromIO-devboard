@@ -1,5 +1,5 @@
 /*
- *   CH32 devboard demo code | Clem, #Dieu-de-l'elec | https://github.com/Dieu-de-l-elec/AngstromIO-devboard/tree/main
+ *   CH32 devboard demo code | by C.G. | https://github.com/Dieu-de-l-elec/AngstromIO-devboard/tree/main
  *   Charlieplexed 5x4 LED matrix
  *   1 button & 1 LED
  *   
