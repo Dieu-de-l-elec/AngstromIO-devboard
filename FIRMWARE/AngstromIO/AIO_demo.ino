@@ -1,4 +1,4 @@
-/*  AngstromIO mini devboard demo code | Clem, #Dieu-de-l'elec | https://github.com/Dieu-de-l-elec/AngstromIO-devboard/tree/main
+/*  AngstromIO mini devboard demo code | by C.G. | https://github.com/Dieu-de-l-elec/AngstromIO-devboard/tree/main
  *  Based on megaTinyCore library by SpenceKonde
  *  
  *  The devboard can be programmed using the Serial UPDI programmer, 
